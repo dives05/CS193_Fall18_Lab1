@@ -8,15 +8,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# David Ives's First CS Homework
+
+### My Favorite Things About CS 19300:
+
+- Resmue Building
+- My own website
+- Information about the CS program at Purdue
+
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# David Ives's First CS Homework
 ## Header 2
-### Header 3
+### My Favorite Things About CS 19300:
 
-- Bulleted
-- List
+- Resmue Building
+- My own website
+- Information about the CS program at Purdue
 
 1. Numbered
 2. List
